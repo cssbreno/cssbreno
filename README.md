@@ -1,8 +1,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=900&size=24&pause=1000&color=4981C8&random=false&width=435&lines=Bem+vindo+(a)!+Meu+nome+%C3%A9+Breno.)](https://git.io/typing-svg)
 
+<sub><em>PT-BR</em></sub>
+
+- 🤵 Tenho 23 anos, sou entusiasta em Programação e apaixonado pelo potencial de mudar vidas com Tecnologia e Inovação.
 - 🎓 Cursando Ciências da Computação;
 - 👨🏻‍💻 Estudando tecnologias Front-End;
+- 💼 Open to Work;
+
+  <br>
+
+<sub><em>EN-US</em></sub>
+- 🤵 I am 23 years old, enthusiastic about Programming, and passionate about the potential to change lives with Technology and Innovation.
+- 🎓 Currently pursuing a degree in Computer Science;
+- 👨🏻‍💻 Learning Front-End technologies;
 - 💼 Open to Work;
 
   <br>
