@@ -1,9 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=900&size=24&pause=1000&color=4981C8&random=false&width=435&lines=Bem+vindo+(a)!+Meu+nome+%C3%A9+Breno.)](https://git.io/typing-svg)
 
-- 🎓 Cursando Ciências da Computação
+- 🎓 Cursando Ciências da Computação;
 - 👨🏻‍💻 Estudando tecnologias Front-End;
-- 💼 Trabalhando com Logística
+- 💼 Open to Work;
 
   <br>
   
