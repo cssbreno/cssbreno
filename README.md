@@ -5,7 +5,7 @@
 
 - 🤵 Tenho 23 anos, sou entusiasta em Programação e apaixonado pelo potencial de mudar vidas com Tecnologia e Inovação.
 - 🎓 Cursando Ciências da Computação;
-- 👨🏻‍💻 Estudando tecnologias Front-End;
+- 👨🏻‍💻 Estudando tecnologias Back-End;
 - 💼 Open to Work;
 
   <br>
@@ -13,7 +13,7 @@
 <sub><em>EN-US</em></sub>
 - 🤵 I am 23 years old, enthusiastic about Programming, and passionate about the potential to change lives with Technology and Innovation.
 - 🎓 Currently pursuing a degree in Computer Science;
-- 👨🏻‍💻 Learning Front-End technologies;
+- 👨🏻‍💻 Learning Back-End technologies;
 - 💼 Open to Work;
 
   <br>
