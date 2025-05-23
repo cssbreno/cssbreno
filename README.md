@@ -52,6 +52,7 @@
 ## Ferramentas
 <div  style="display: inline_block"> 
 <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+<img align="center" alt="Cursor" height="30" width="40" src="https://www.cursor.com/assets/images/logo.svg">
 <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 <img align="center" alt="IntelliJ IDEA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
