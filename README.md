@@ -1,8 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=900&size=24&pause=7000&color=4981C8&random=false&width=435&lines=Bem+vindo(a)!+Meu+nome+%C3%A9+Breno.)](https://git.io/typing-svg)
-
-## <br>
-
+##
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cssbreno&show_icons=true&theme=holi&count_private=truei&include_all_commit"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssbreno&layout=compact&langs_count=16&theme=holi"/>
