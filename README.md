@@ -1,19 +1,21 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=900&size=24&pause=20000&color=4981C8&random=false&width=435&lines=Bem+vindo(a)!+Meu+nome+%C3%A9+Breno.)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=900&size=24&pause=20000&color=7F3ACE&random=true&width=435&lines=Bem+vindo(a)!+Meu+nome+%C3%A9+Breno.)](https://git.io/typing-svg) 
+
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cssbreno&show_icons=true&theme=holi&count_private=truei&include_all_commit"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssbreno&layout=compact&langs_count=16&theme=holi"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f6597b4-ff7c-4415-9272-d95759df842f" width="180em">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cssbreno&show_icons=true&theme=midnight-purple&count_private=truei&include_all_commit"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssbreno&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
 
 ## Tecnologias
 <div style="display: inline_block">
-  <img align="center" alt="Breno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Breno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Breno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="40">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="40">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40">
   <img align="center" alt="Breno-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Breno-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <!-- <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -->
