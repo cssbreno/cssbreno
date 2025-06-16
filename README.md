@@ -1,8 +1,7 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=900&size=24&pause=20000&color=7F3ACE&random=true&width=435&lines=Bem+vindo(a)!+Meu+nome+%C3%A9+Breno.)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=900&size=24&pause=20000&color=7F3ACE&random=true&width=435&lines=Muito+prazer!+Sou+o+Breno.)](https://git.io/typing-svg) 
 
 <div>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f6597b4-ff7c-4415-9272-d95759df842f" width="180em">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cssbreno&show_icons=true&theme=midnight-purple&count_private=truei&include_all_commit"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssbreno&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
