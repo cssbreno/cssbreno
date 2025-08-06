@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<p align="center">Cursando Ciência da Computação. Trabalho com Python e atuo com sistemas de automação No/Low Code, utilizando ferramentas como N8N e Coda.io para otimizar processos. Também estudo Java para ampliar meu repertório técnico e fortalecer minha capacidade de criar soluções robustas.
+<p align="center">Cursando Ciência da Computação. Atuo com sistemas de automação No/Low Code, utilizando ferramentas como N8N e Coda.io para otimizar processos. Também estudo Java para ampliar meu repertório técnico e fortalecer minha capacidade de criar soluções robustas.
   
 #
 
