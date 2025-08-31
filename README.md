@@ -9,8 +9,8 @@
 #
 
 <div align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=cssbreno&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&cache_seconds=21600&theme=prussian&line_height=25&hide=issues&text_color=ffffff&locale=pt-br">  
-  <img height="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssbreno&layout=compact&hide_title=true&langs_count=6&theme=prussian&text_color=ffffff&cache_seconds=21600&locale=pt-br"/>
+  <img height="168" src="https://github-readme-stats.vercel.app/api?username=cssbreno&show_icons=true&include_all_commits=true&hide_title=false&count_private=true&cache_seconds=21600&theme=prussian&line_height=25&hide=issues&text_color=ffffff&locale=pt-br">  
+  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssbreno&hide_title=false&langs_count=7&theme=prussian&text_color=ffffff&cache_seconds=21600&locale=pt-br&card_width=350&layout=compact"/>
 </div>
 
 
