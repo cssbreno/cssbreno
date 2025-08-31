@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=8F43EE&center=true&vCenter=true&width=600&lines=Seja+bem+vindo(a)+e+muito+prazer!+;Sou+desenvolvedor+back-end" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=9AC1D9&center=true&vCenter=true&width=600&lines=Seja+bem+vindo(a)+e+muito+prazer!+;Sou+desenvolvedor+back-end" alt="Typing SVG">
   </a>
 </div>
 
@@ -9,8 +9,8 @@
 #
 
 <div align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=cssbreno&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&theme=midnight-purple&">
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssbreno&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="168" src="https://github-readme-stats.vercel.app/api?username=cssbreno&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&cache_seconds=86400&theme=prussian&line_height=25&hide=issues&text_color=fffffc">  
+  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssbreno&layout=compact&hide_title=true&langs_count=6&theme=prussian&text_color=fffffc&cache_seconds=86400"/>
 </div>
 
 
@@ -82,8 +82,8 @@
 
 </div>
 
-<picture align="center">
+<!-- <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cssbreno/cssbreno/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cssbreno/cssbreno/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cssbreno/cssbreno/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
