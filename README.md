@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=9AC1D9&center=true&vCenter=true&width=600&lines=Seja+bem+vindo(a)+e+muito+prazer!+;Sou+desenvolvedor+back-end" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=1D63D0&center=true&vCenter=true&width=600&lines=Seja+bem+vindo(a)+e+muito+prazer!+;Sou+desenvolvedor+back-end" alt="Typing SVG">
   </a>
 </div>
 
@@ -9,8 +9,8 @@
 #
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=cssbreno&show_icons=true&include_all_commits=true&hide_title=false&count_private=true&cache_seconds=21600&theme=prussian&line_height=25&hide=issues&text_color=ffffff&locale=pt-br">  
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssbreno&hide_title=false&langs_count=7&theme=prussian&text_color=ffffff&cache_seconds=21600&locale=pt-br&card_width=350&layout=compact"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=cssbreno&show_icons=true&include_all_commits=true&hide_title=false&count_private=true&cache_seconds=21600&theme=github_dark&line_height=25&hide=issues&text_color=ffffff&locale=pt-br">  
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssbreno&hide_title=false&langs_count=7&theme=github_dark&text_color=ffffff&cache_seconds=21600&locale=pt-br&card_width=350&layout=compact"/>
 </div>
 
 
