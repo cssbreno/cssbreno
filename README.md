@@ -4,8 +4,17 @@
   </a>
 </div>
 
-<p align="center">Cursando Ciência da Computação. Atuo com sistemas de automação No/Low Code, utilizando ferramentas como N8N e Coda.io para otimizar processos. Também estudo Java para ampliar meu repertório técnico e fortalecer minha capacidade de criar soluções robustas.
-  
+<p align="center">
+  👨‍💻 <b>Dev Jr. @Sankhya</b>
+  <br><br>
+  Desenvolvedor focado em Back-End e Automação. Utilizo tecnologia para eliminar trabalhos manuais e criar sistemas escaláveis.
+  <br>
+  <i>Back-End Developer focused on Automation. I leverage technology to eliminate manual tasks and build scalable systems.</i>
+  <br><br>
+  🛠 <b>Stack Principal:</b> Java, Spring Boot, OracleSQL, Python.<br>
+  ⚡ <b>Automação:</b> N8N, Coda.io, Google Apps Script, Make.
+</p>
+
 #
 
 <div align="center">
@@ -13,11 +22,11 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssbreno&hide_title=false&langs_count=7&theme=github_dark&text_color=ffffff&cache_seconds=21600&locale=pt-br&card_width=350&layout=compact"/>
 </div>
 
-
 ## Skills
 
-### 🎨 Front-end
+### 🎨 Front-end & JS
 <div style="display: inline_block"><br>
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
@@ -26,48 +35,51 @@
 
 ---
 
-### ⚡ JavaScript & Frameworks
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div> 
-
----
-
 ### ☕ Back-end & Linguagens
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
   <img align="center" alt="Hibernate" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg">
-  <br>
-  <br>
+  <span style="margin-right: 15px;"></span>
+  
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   <img align="center" alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+  <span style="margin-right: 15px;"></span>
+
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
 ---
 
 ### 🗄 Banco de Dados
 <div style="display: inline_block"><br>
+  <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ---
 
-
-### 🛠 Ferramentas
+### ⚡ Automação
 <div style="display: inline_block"><br>
-  <img align="center" alt="maven" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
-  <img align="center" alt="Swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
-  <img align="center" alt="intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-  <img align="center" alt="eclipse" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/cursor.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/light/cursor.png">
-  <img align="center" alt="Cursor" height="30" width="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/light/cursor.png">
-</picture>
+  <img align="center" alt="N8N" height="28" src="https://img.shields.io/badge/n8n-ff6584?style=for-the-badge&logo=n8n&logoColor=white">
+  <img align="center" alt="Coda" height="28" src="https://img.shields.io/badge/coda.io-F93352?style=for-the-badge&logo=coda&logoColor=white">
+  <img align="center" alt="Make" height="28" src="https://img.shields.io/badge/Make-6e4bf2?style=for-the-badge&logo=make&logoColor=white">
+  <img align="center" alt="Google Apps Script" height="28" src="https://img.shields.io/badge/Google%20Scripts-4285F4?style=for-the-badge&logo=google&logoColor=white">
 </div>
 
+---
+
+### 🛠 Ferramentas & IDEs
+<div style="display: inline_block"><br>
+  <img align="center" alt="IntelliJ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+  <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Eclipse" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
+  <span style="margin-right: 15px;"></span>
+  <img align="center" alt="maven" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
+  <img align="center" alt="Swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
+</div>
 
 <br>
 
@@ -77,13 +89,6 @@
   <a href = "mailto:cssbreno.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/css_breno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/22zh75err6sgvwz4t33lmgzcy?si=16747dfe30cc4f09" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
-  
 </div>
 
 </div>
-
-<!-- <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cssbreno/cssbreno/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cssbreno/cssbreno/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cssbreno/cssbreno/output/github-contribution-grid-snake.svg">
-</picture> -->
