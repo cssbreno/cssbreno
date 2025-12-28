@@ -15,12 +15,6 @@
   ⚡ <b>Automação:</b> N8N, Coda.io, Google Apps Script, Make.
 </p>
 
-#
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=cssbreno&show_icons=true&include_all_commits=true&hide_title=false&count_private=true&cache_seconds=21600&theme=github_dark&line_height=25&hide=issues&text_color=ffffff&locale=pt-br">  
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssbreno&hide_title=false&langs_count=7&theme=github_dark&text_color=ffffff&cache_seconds=21600&locale=pt-br&card_width=350&layout=compact"/>
-</div>
 
 ## Skills
 
